@@ -1,4 +1,7 @@
 # Employee-Career-Analysis
-this analysis dives deep into understanding the career aspirations of Gen Z professionals, sourced from Industry Helping Hands. 🌟 Key objectives included exploring factors influencing career choices, gauging interest in pursuing higher education abroad among Gen Z, and identifying their preferred working environments. 💼
-
-Leveraging Python's powerful libraries like NumPy, Pandas, and Plotly, I uncovered valuable insights for understanding and engaging with the Gen Z workforce. 📈🐍
+This analysis focuses on understanding the career aspirations and preferences of Gen Z professionals, using data sourced from Industry Helping Hands.
+The primary objectives included:
+Identifying key factors influencing Gen Z career decisions
+Assessing their interest in higher education abroad
+Analyzing preferred workplace environments and values
+Using Python and its analytical libraries — NumPy, Pandas, and Plotly — I performed in-depth data exploration and visualization to uncover actionable insights. The results provide a clear understanding of Gen Z’s motivations, helping organizations align better with the evolving workforce trends.
